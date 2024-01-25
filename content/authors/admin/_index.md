@@ -51,7 +51,7 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Astrohysic
+      - name: Astrophysic
         description: ''
         percent: 80
         icon: python

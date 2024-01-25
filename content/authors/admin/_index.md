@@ -80,7 +80,7 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Elephant Expert
         description: ''
         percent: 80
         icon: camera-retro

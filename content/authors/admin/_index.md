@@ -6,8 +6,8 @@ title: FA
 name_pronunciation: da Sepp
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: FA
+last_name: FU
 
 # Status emoji
 status:
@@ -51,17 +51,17 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Astrohysic
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Flight Education
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Hausmeister
         description: ''
         percent: 40
         icon: database
@@ -70,12 +70,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Wandern
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Fliegen
         description: ''
         percent: 100
         icon: cat
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Professor of Quantum Computing in Social Informatics focuses on the integration of quantum computing technologies in engineering applications. In an era in which the performance of conventional computers is reaching its limits, quantum computing is opening up new horizons for solving complex engineering problems..
+Professor of Quantum Computing in Social Informatics focuses on the integration of quantum computing technologies in astrophysic. In an era in which the performance of conventional computers is reaching its limits, quantum computing is opening up new horizons for solving complex engineering problems..
 {style="text-align: justify;"}

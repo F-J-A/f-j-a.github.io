@@ -3,7 +3,7 @@
 title: FA
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: da Sepp
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -25,7 +25,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Quantum Computing in Social Informatics.
 
 # Interests to show in About widget
 interests:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor of Quantum Computing in Social Informatics focuses on the integration of quantum computing technologies in engineering applications. In an era in which the performance of conventional computers is reaching its limits, quantum computing is opening up new horizons for solving complex engineering problems..
 {style="text-align: justify;"}

@@ -31,20 +31,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Flight Education
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
+      year: 2021
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2015
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

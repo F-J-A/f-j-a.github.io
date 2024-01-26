@@ -1,13 +1,13 @@
 ---
 # Display name
-title: FA
+title: FILOU
 
 # Name pronunciation (optional)
-name_pronunciation: da Sepp
+name_pronunciation: Fili
 
 # Full name (for SEO)
-first_name: FA
-last_name: FU
+first_name: F.
+last_name: Filou
 
 # Status emoji
 status:
@@ -61,28 +61,28 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: Hausmeister
+      - name: Elephant breeding
         description: ''
-        percent: 40
+        percent: 10
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Wandern
+      - name: Hiking
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Fliegen
+      - name: Flying
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
       - name: Elephant Expert
         description: ''
-        percent: 80
+        percent: 10
         icon: camera-retro
         icon_pack: fas
 
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Professor of Quantum Computing in Social Informatics focuses on the integration of quantum computing technologies in astrophysic. In an era in which the performance of conventional computers is reaching its limits, quantum computing is opening up new horizons for solving complex engineering problems..
+Professor of Quantum Computing in Social Informatics with a focus on the integration of quantum computing technologies in astrophysics. A special topic at a time when the performance of conventional computers is reaching its limits, quantum computing opens up new horizons for solving complex technical problems.
 {style="text-align: justify;"}

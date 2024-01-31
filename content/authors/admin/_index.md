@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: # Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CROSSMedia3
+  - name: CROSSMedia
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)

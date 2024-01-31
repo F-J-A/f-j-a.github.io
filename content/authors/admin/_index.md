@@ -21,8 +21,8 @@ role: # Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CROSSMedia
-    url: https://www.stanford.edu/
+  - name: # CROSSMedia
+    url: # https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Quantum Computing in Social Informatics.

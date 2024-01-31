@@ -1,13 +1,13 @@
 ---
 # Display name
-title: FILOU
+title: CROSSMedia
 
 # Name pronunciation (optional)
 name_pronunciation: Fili
 
 # Full name (for SEO)
-first_name: F.
-last_name: Filou
+first_name: CROSSMedia
+last_name: # CROSSMedia
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: CROSSMedia
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)

@@ -3,11 +3,11 @@
 title: CROSSMedia
 
 # Name pronunciation (optional)
-name_pronunciation: Fili
+name_pronunciation: # Fili
 
 # Full name (for SEO)
-first_name: CROSSMedia
-last_name: # CROSSMedia
+first_name: CROSSMedia1
+last_name: # CROSSMedia2
 
 # Status emoji
 status:
@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CROSSMedia
+  - name: CROSSMedia3
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
